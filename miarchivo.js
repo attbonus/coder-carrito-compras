@@ -1,4 +1,4 @@
-
+//Se creo un algoritmo para calcular el precio total de los productos del carrito de compras
 function calculoEspecias(agregadoDeProductos){
     let sum = 0;
     while(true){
@@ -8,7 +8,7 @@ function calculoEspecias(agregadoDeProductos){
         sum += agregadoDeProductos;
         
     }
-    return alert("Suma total de sus productos son: " + sum + " Gracias por su compra");
+    return alert("Suma total de sus productos son: $" + sum + " Gracias por su compra");
 }
 
 
