@@ -1,0 +1,13 @@
+h1{
+    text-align:right;
+    margin-top: 100px;
+    height: 200px;
+}
+
+ul{
+    display: flex;
+    text-align: center;
+    list-style: none;
+    flex-direction: column;
+    font-size: 30px;
+}
