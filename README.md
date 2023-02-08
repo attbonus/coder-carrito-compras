@@ -1,1 +1,1 @@
-Carrito de compras. Coder House curso
+Carrito de compras. Coding
